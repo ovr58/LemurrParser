@@ -1,0 +1,85 @@
+<categories>
+    <category id="0">Кошки</category>
+    <category id="100" parentId="0">Корма</category>
+    <category id="102" parentId="0">Ветеринария</category>
+    <category id="103" parentId="0">Наполнители и опилки</category>
+    <category id="105" parentId="0">Витамины и добавки</category>
+    <category id="109" parentId="0">Когтеточки, домики, лежаки</category>
+    <category id="1013" parentId="0">Туалеты и пеленки</category>
+    <category id="1018" parentId="0">Переноски, рюкзаки, вольеры</category>
+    <category id="1019" parentId="0">Гигиена</category>
+    <category id="1022" parentId="0">Игрушки</category>
+    <category id="1029" parentId="0">Обработка помещений</category>
+    <category id="1032" parentId="0">Миски, кормушки и поилки</category>
+    <category id="1034" parentId="0">Груминг</category>
+    <category id="1038" parentId="0">Поводки, ошейники, шлейки</category>
+    <category id="1039" parentId="0">Аксессуары</category>
+    <category id="1067" parentId="0">Одежда</category>
+    <category id="1">Собаки</category>
+    <category id="111" parentId="1">Корма</category>
+    <category id="114" parentId="1">Ветеринария</category>
+    <category id="1110" parentId="1">Гигиена</category>
+    <category id="1111" parentId="1">Витамины и добавки</category>
+    <category id="1115" parentId="1">Когтеточки, домики, лежаки</category>
+    <category id="1116" parentId="1">Поводки, ошейники, шлейки</category>
+    <category id="1121" parentId="1">Туалеты и пеленки</category>
+    <category id="1126" parentId="1">Миски, кормушки и поилки</category>
+    <category id="1127" parentId="1">Игрушки</category>
+    <category id="1133" parentId="1">Обработка помещений</category>
+    <category id="1137" parentId="1">Одежда</category>
+    <category id="1146" parentId="1">Груминг</category>
+    <category id="1155" parentId="1">Переноски, рюкзаки, вольеры</category>
+    <category id="1159" parentId="1">Аксессуары</category>
+    <category id="2">Птицы</category>
+    <category id="126" parentId="2">Корма</category>
+    <category id="1214" parentId="2">Наполнители и опилки</category>
+    <category id="1217" parentId="2">Витамины и добавки</category>
+    <category id="1240" parentId="2">Ветеринария</category>
+    <category id="1247" parentId="2">Игрушки</category>
+    <category id="1250" parentId="2">Обработка помещений</category>
+    <category id="1252" parentId="2">Миски, кормушки и поилки</category>
+    <category id="1253" parentId="2">Аксессуары</category>
+    <category id="1257" parentId="2">Когтеточки, домики, лежаки</category>
+    <category id="1260" parentId="2">Переноски, рюкзаки, вольеры</category>
+    <category id="1263" parentId="2">Груминг</category>
+    <category id="3">Грызуны и хорьки</category>
+    <category id="137" parentId="3">Наполнители и опилки</category>
+    <category id="138" parentId="3">Корма</category>
+    <category id="1312" parentId="3">Туалеты и пеленки</category>
+    <category id="1320" parentId="3">Переноски, рюкзаки, вольеры</category>
+    <category id="1323" parentId="3">Витамины и добавки</category>
+    <category id="1324" parentId="3">Ветеринария</category>
+    <category id="1330" parentId="3">Гигиена</category>
+    <category id="1331" parentId="3">Когтеточки, домики, лежаки</category>
+    <category id="1336" parentId="3">Обработка помещений</category>
+    <category id="1342" parentId="3">Игрушки</category>
+    <category id="1343" parentId="3">Миски, кормушки и поилки</category>
+    <category id="1345" parentId="3">Аксессуары</category>
+    <category id="1348" parentId="3">Груминг</category>
+    <category id="1358" parentId="3">Поводки, ошейники, шлейки</category>
+    <category id="1365" parentId="3">Одежда</category>
+    <category id="4">Экзотические питомцы</category>
+    <category id="1425" parentId="4">Корма</category>
+    <category id="1449" parentId="4">Оборудование и химия</category>
+    <category id="1451" parentId="4">Декорации, растения, грунты</category>
+    <category id="1454" parentId="4">Аквариумы и террариумы</category>
+    <category id="1462" parentId="4">Витамины и добавки</category>
+    <category id="1464" parentId="4">Миски, кормушки и поилки</category>
+    <category id="1466" parentId="4">Когтеточки, домики, лежаки</category>
+    <category id="1468" parentId="4">Аксессуары</category>
+    <category id="1471" parentId="4">Ветеринария</category>
+    <category id="1473" parentId="4">Наполнители и опилки</category>
+    <category id="1474" parentId="4">Обработка помещений</category>
+    <category id="5">Для фермеров</category>
+    <category id="1528" parentId="5">Ветеринария</category>
+    <category id="1572" parentId="5">Витамины и добавки</category>
+    <category id="6">Рыбы</category>
+    <category id="1635" parentId="6">Корма</category>
+    <category id="1641" parentId="6">Оборудование и химия</category>
+    <category id="1644" parentId="6">Аквариумы и террариумы</category>
+    <category id="1656" parentId="6">Декорации, растения, грунты</category>
+    <category id="1661" parentId="6">Миски, кормушки и поилки</category>
+    <category id="1669" parentId="6">Ветеринария</category>
+    <category id="1670" parentId="6">Витамины и добавки</category>
+</categories>
+        
